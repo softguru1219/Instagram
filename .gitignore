@@ -1,3 +1,4 @@
 .idea/
 *.csv
 *.exe
+__pycache__
